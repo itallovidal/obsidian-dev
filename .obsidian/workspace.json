@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "2ebd0e2ff229634c",
+    "type": "split",
+    "children": [
+      {
+        "id": "84a3452777e8f9d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66fa5deec24c6c88",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "56ae5e447fe5d73f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Back-end/JAVA/SpringBoot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7fcb169fa609b3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Back-end/JAVA/SpringBoot - REST API!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e439771431e24d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "21182f1de9de036a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4e2541c9d7b1e34",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ddf39330f7091c8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f89d958038c950e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a98ce14fb3a8b792",
+    "type": "split",
+    "children": [
+      {
+        "id": "c087d60005aecca9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c30177755ee5356",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dev/Back-end/JAVA/SpringBoot - REST API!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4b1ba5ed8015931",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dev/Back-end/JAVA/SpringBoot - REST API!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54d58d4b882a9228",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e69744633bdec428",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dev/Back-end/JAVA/SpringBoot - REST API!.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f7fcb169fa609b3d",
+  "lastOpenFiles": [
+    "README.md",
+    "Dev/Back-end/JAVA/SpringBoot.md",
+    "Dev/Back-end/JAVA/SpringBoot - REST API!.md",
+    "Dev/Back-end/Javascript/Fastify.md",
+    "Dev/Back-end/Docker.md",
+    "Dev/Back-end/Javascript/Node.md",
+    "Dev/Back-end/JAVA/Java.md",
+    "Dev/Back-end/JWT.md",
+    "Dev/ORM e Query Builders/ORM e Query Builders.md",
+    "Dev/ORM e Query Builders/KNEX.md",
+    "Dev/ORM e Query Builders/Prisma.md",
+    "Dev/Back-end/Javascript/NEST.js.md",
+    "Dev/Back-end/JAVA",
+    "Dev/Back-end/Javascript",
+    "Dev/ORM e Query Builders",
+    "Dev/Back-end/Requisições HTTP.md",
+    "Dev/Back-end/Backend.md",
+    "Dev/Back-end",
+    "Dev/Front-end/React/React Context.md",
+    "Dev/Mobile/React Native/@Bibliotecas/Expo File System.md",
+    "Dev/Mobile/React Native/Async Storage.md",
+    "Dev/Estrutura de Dados/Estrutura de Dados.md",
+    "Dev/Estrutura de Dados/Stack.md",
+    "Dev/Arquitetura de Software/Compilação, Interpretação, Transpilação e Bundlers.md",
+    "Dev/Arquitetura de Software/Arquitetura de Software.md",
+    "Dev/Estrutura de Dados",
+    "Dev/Arquitetura de Software/Modelos de Aplicações WEB.md",
+    "Dev/Arquitetura de Software/S.O.L.I.D - Dependency Inversion.md",
+    "Dev/@bibliotecas/Crypto.md",
+    "Dev/Mobile/React Native/@Bibliotecas/Bibliotecas RN.md",
+    "Dev/@bibliotecas/Bibliotecas.md",
+    "Dev/@bibliotecas"
+  ]
+}

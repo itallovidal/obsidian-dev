@@ -1,0 +1,3 @@
+## ORM - Object Relational Mapper
+
+Responsável por integrar POO com o banco de dados, utilizando objetos e classes. Praticamente nenhuma preocupação com a sintaxe da linguagem SQL ou o banco que está sendo utilizado. Para montar as querys será utilizado objetos e métodos, sem precisar escrever SQL diretamente. Dessa maneira, você pode manipular os dados usando objetos e métodos, sem precisar escrever SQL diretamente
