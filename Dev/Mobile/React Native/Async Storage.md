@@ -51,6 +51,6 @@ AsyncStorage.clear()
 
 ### Lista de todos os Métodos
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/34a78d70-1a11-4e64-bd23-42afe45aaa44/Untitled.png)
+![[Pasted image 20240708211420.png]]
 
 Subtópico: [[React Native]]

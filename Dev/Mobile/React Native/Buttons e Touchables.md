@@ -1,6 +1,6 @@
 # Buttons e Toucheables
 
-Para lidar com situações onde possuímos um botão que dispara um evento, é natural pensarmos no componente <Button/>. Porém, dentro do ecossistema do React temos em nossa disposição outros componentes que cumprem essa função tão bem ou melhor quanto.
+Para lidar com situações onde possuímos um botão que dispara um evento, é natural pensarmos no componente `<Button/>`. Porém, dentro do ecossistema do React temos em nossa disposição outros componentes que cumprem essa função tão bem ou melhor quanto.
 
 ## Button: Limitações
 
@@ -20,10 +20,8 @@ Sua estilização é muito básica, já que ele não aceita a propriedade `*styl
       />
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a7fdd565-8502-442f-984d-bdfb6fec286b/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cad59f33-2b6b-4dd9-8cd0-764d3e12fbd0/Untitled.png)
-
+![[Pasted image 20240708211803.png]]
+![[Pasted image 20240708211922.png]]
 ## Touchables: Opacity, Highlight, withoutFeedBack
 
 Para resolver essa questão, o react nos disponibiliza componentes que são mais flexíveis na estilização, e que vão se comportar de maneira igual - ou muita parecida - em ambas as plataformas. Além disso, podemos envolver outros elementos tornando-os clicáveis como uma foto, ou uma `*flatList*`, por exemplo. Abaixo podemos
