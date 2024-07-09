@@ -119,5 +119,4 @@ npx prisma studio
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/44bc9484-d615-454a-8e65-4a4b4a582375/30413302-d48c-4714-ab1b-f5063f9010be/Untitled.png)
 
-node: [[ORM e Query Builders]]
-node: [[Node]]
+node: [[Bibliotecas]]

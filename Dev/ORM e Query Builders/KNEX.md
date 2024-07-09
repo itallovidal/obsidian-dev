@@ -120,3 +120,5 @@ Para dar _rollback_ é só utilizar
 ```tsx
 npm run knex -- migrate:rollback
 ```
+
+node: [[Bibliotecas]]
