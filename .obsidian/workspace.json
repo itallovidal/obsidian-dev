@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a98ce14fb3a8b792",
@@ -160,6 +159,7 @@
   },
   "active": "81a1b9b83d771776",
   "lastOpenFiles": [
+    "Dev/Mobile/React Native/React Native.md",
     "Dev/Mobile/React Native/Exportação.md",
     "Dev/Mobile/React Native/Buttons e Touchables.md",
     "Pasted.md",
@@ -197,7 +197,6 @@
     "Dev/Back-end/Docker.md",
     "Dev/Back-end/Javascript/Node.md",
     "Dev/Back-end/JAVA/Java.md",
-    "Dev/Back-end/JWT.md",
     "Dev/Back-end/JAVA",
     "Dev/Back-end/Javascript",
     "Dev/ORM e Query Builders",
