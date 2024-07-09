@@ -116,5 +116,4 @@ npx prisma studio
 
 ![[Pasted image 20240708210850.png]]
 
-node: [[ORM e Query Builders]]
-node: [[Node]]
+node: [[Bibliotecas]]

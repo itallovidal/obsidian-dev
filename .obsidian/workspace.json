@@ -21,11 +21,9 @@
             "id": "81a1b9b83d771776",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Dev/Mobile/React Native/React Native.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted image 20240708211922.png"
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Mobile/React Native/React Native.md",
+                "file": "Images/Pasted image 20240708211922.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Mobile/React Native/React Native.md",
+                "file": "Images/Pasted image 20240708211922.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Mobile/React Native/React Native.md"
+                "file": "Images/Pasted image 20240708211922.png"
               }
             }
           }
@@ -159,13 +157,32 @@
   },
   "active": "81a1b9b83d771776",
   "lastOpenFiles": [
+    "Images/Pasted image 20240708211803.png",
+    "Images/Pasted image 20240708211420.png",
+    "Images/Pasted image 20240708210850.png",
+    "Images/Pasted image 20240708210529.png",
+    "Images/Pasted image 20240708210206.png",
+    "Images/Pasted image 20240708205550.png",
+    "Images/Pasted image 20240708205457.png",
+    "Images/Pasted image 20240708205316.png",
+    "Images/Pasted image 20240708205238.png",
+    "Images/Pasted image 20240708205155.png",
     "Dev/Mobile/React Native/React Native.md",
+    "Redes.md",
+    "Dev/SQL/Supabase.md",
+    "Dev/SQL/SQL.md",
+    "Dev/SQL/SQL - Comandos DML.md",
+    "Dev/SQL/Firebase.md",
+    "Dev/SQL",
+    "Dev/@bibliotecas/ZOD.md",
+    "Dev/@bibliotecas/STITCHES.md",
+    "Dev/@bibliotecas/JSON Server.md",
+    "Dev/@bibliotecas/ESLINT.md",
+    "Dev/@bibliotecas/AXIOS.md",
     "Dev/Mobile/React Native/Exportação.md",
     "Dev/Mobile/React Native/Buttons e Touchables.md",
     "Pasted.md",
-    "Images/Pasted image 20240708211420.png",
     "Images/Pasted image 20240708211922.png",
-    "Images/Pasted image 20240708211803.png",
     "Dev/Mobile/React Native/Async Storage.md",
     "Dev/Mobile/React Native/@Bibliotecas/Expo Linear Gradient.md",
     "Dev/Mobile/React Native/@Bibliotecas/Expo Image Picker.md",
@@ -176,27 +193,9 @@
     "Dev/ORM e Query Builders/ORM e Query Builders.md",
     "Dev/ORM e Query Builders/KNEX.md",
     "Dev/ORM e Query Builders/Prisma.md",
-    "Images/Pasted image 20240708210850.png",
-    "Images/Pasted image 20240708210529.png",
-    "Images/Pasted image 20240708210206.png",
     "README.md",
-    "'aaa'.md",
-    "().md",
-    "Images/Pasted image 20240708205550.png",
-    "Images/Pasted image 20240708205457.png",
-    "Images/Pasted image 20240708205155.png",
     "Images",
-    "Images/Pasted image 20240708205316.png",
-    "2024-07-08.md",
     "Untitled.canvas",
-    "Dev/Linguagens/Javascript/Vetores.md",
-    "Dev/Arquitetura de Software/Modelos de Aplicações WEB.md",
-    "Dev/Back-end/JAVA/SpringBoot.md",
-    "Dev/Back-end/JAVA/SpringBoot - REST API!.md",
-    "Dev/Back-end/Javascript/Fastify.md",
-    "Dev/Back-end/Docker.md",
-    "Dev/Back-end/Javascript/Node.md",
-    "Dev/Back-end/JAVA/Java.md",
     "Dev/Back-end/JAVA",
     "Dev/Back-end/Javascript",
     "Dev/ORM e Query Builders",
