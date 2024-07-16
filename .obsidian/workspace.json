@@ -18,12 +18,14 @@
             }
           },
           {
-            "id": "81a1b9b83d771776",
+            "id": "e7d12158c7e6b477",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20240708211922.png"
+                "file": "ShadcnUI.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20240708211922.png",
+                "file": "ShadcnUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20240708211922.png",
+                "file": "ShadcnUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20240708211922.png"
+                "file": "ShadcnUI.md"
               }
             }
           }
@@ -155,8 +157,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81a1b9b83d771776",
+  "active": "d4e2541c9d7b1e34",
   "lastOpenFiles": [
+    "ShadcnUI.md",
+    "Dev/Mobile/React Native/Exportação.md",
+    "Dev/Mobile/React Native/Buttons e Touchables.md",
+    "Dev/Linguagens/Javascript/JS Assíncrono.md",
+    "Images/Pasted image 20240708211922.png",
     "Images/Pasted image 20240708211803.png",
     "Images/Pasted image 20240708211420.png",
     "Images/Pasted image 20240708210850.png",
@@ -166,7 +173,6 @@
     "Images/Pasted image 20240708205457.png",
     "Images/Pasted image 20240708205316.png",
     "Images/Pasted image 20240708205238.png",
-    "Images/Pasted image 20240708205155.png",
     "Dev/Mobile/React Native/React Native.md",
     "Redes.md",
     "Dev/SQL/Supabase.md",
@@ -179,10 +185,7 @@
     "Dev/@bibliotecas/JSON Server.md",
     "Dev/@bibliotecas/ESLINT.md",
     "Dev/@bibliotecas/AXIOS.md",
-    "Dev/Mobile/React Native/Exportação.md",
-    "Dev/Mobile/React Native/Buttons e Touchables.md",
     "Pasted.md",
-    "Images/Pasted image 20240708211922.png",
     "Dev/Mobile/React Native/Async Storage.md",
     "Dev/Mobile/React Native/@Bibliotecas/Expo Linear Gradient.md",
     "Dev/Mobile/React Native/@Bibliotecas/Expo Image Picker.md",
@@ -193,7 +196,6 @@
     "Dev/ORM e Query Builders/ORM e Query Builders.md",
     "Dev/ORM e Query Builders/KNEX.md",
     "Dev/ORM e Query Builders/Prisma.md",
-    "README.md",
     "Images",
     "Untitled.canvas",
     "Dev/Back-end/JAVA",
