@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "20c072d07b290a55",
+            "id": "b7ac4c508d9305aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/@bibliotecas/Javascript/Bibliotecas.md",
+                "file": "Dev/Front-end/Javascript/JS Assíncrono.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/@bibliotecas/Javascript/Bibliotecas.md",
+                "file": "Dev/Front-end/Javascript/JS Assíncrono.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/@bibliotecas/Javascript/Bibliotecas.md",
+                "file": "Dev/Front-end/Javascript/JS Assíncrono.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/@bibliotecas/Javascript/Bibliotecas.md"
+                "file": "Dev/Front-end/Javascript/JS Assíncrono.md"
               }
             }
           }
@@ -157,8 +157,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4e2541c9d7b1e34",
+  "active": "b7ac4c508d9305aa",
   "lastOpenFiles": [
+    "Dev/Front-end/Javascript/Javascript.md",
+    "Dev/Front-end/Javascript/Funções.md",
+    "Dev/Front-end/Javascript/DOM.md",
+    "Pasted image 20240721224735.png",
+    "Dev/@bibliotecas/Javascript/Bibliotecas.md",
+    "Dev/@bibliotecas/Javascript/ORM e Query Builders/KNEX.md",
+    "Dev/Front-end/Javascript/Declarações, Escopos e Funções.md",
+    "Dev/@bibliotecas/Javascript/AXIOS.md",
     "Dev/@bibliotecas/Javascript",
     "Dev/Teórico/Redes.md",
     "Dev/Teórico",
@@ -181,7 +189,6 @@
     "Images/Pasted image 20240708205550.png",
     "Images/Pasted image 20240708205457.png",
     "Images/Pasted image 20240708205316.png",
-    "Images/Pasted image 20240708205238.png",
     "Dev/Mobile/React Native/React Native.md",
     "Dev/SQL/Supabase.md",
     "Dev/SQL/SQL.md",
@@ -191,12 +198,6 @@
     "Dev/@bibliotecas/Javascript/ZOD.md",
     "Dev/@bibliotecas/Javascript/STITCHES.md",
     "Dev/@bibliotecas/Javascript/JSON Server.md",
-    "Dev/@bibliotecas/Javascript/AXIOS.md",
-    "Pasted.md",
-    "Dev/Mobile/React Native/Async Storage.md",
-    "Dev/Mobile/React Native/@Bibliotecas/Expo Linear Gradient.md",
-    "Dev/Mobile/React Native/@Bibliotecas/Expo Image Picker.md",
-    "Dev/Mobile/React Native/@Bibliotecas/Expo File System.md",
     "Images",
     "Untitled.canvas",
     "Dev/Back-end/JAVA",

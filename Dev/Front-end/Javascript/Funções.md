@@ -1,3 +1,5 @@
+Palavras Chave: [[Javascript]]
+
 Um dos tópicos mais importantes de qualquer linguagem, funções são responsáveis por realizar determinadas tarefas específicas, são blocos de código reutilizáveis onde podemos executar em diversas partes do código sem que tenhamos que reescrever tudo novamente.
 
 Vamos supor que temos uma tarefa simples: somar dois números. Perceba que o código abaixo tem vários problemas. Temos que re-associar um novo valor cada vez que formos realizar um novo cálculo, o que pode se tornar bem trabalhoso. Além disso, vamos supor que futuramente nós queiramos ao invés de somar, subtrair.
@@ -221,4 +223,3 @@ listaFuncionarios('google', 'fernando', 'carlos', 'joao', 'vitor')
 // 3: vitor
 ```
 
-Linguagem: [[Javascript]]

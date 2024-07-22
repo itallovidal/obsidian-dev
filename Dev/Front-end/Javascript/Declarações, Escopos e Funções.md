@@ -1,3 +1,5 @@
+Palavras Chave: [[Javascript]]
+
 ## Introdução e conceitos básicos
 
 ### Uma Linguagem Fracamente Tipada
@@ -228,4 +230,6 @@ console.log(frase)
 
 Além disto, com _var_ temos a possibilidade de redeclarar variáveis, o que também não é uma boa prática. Para solucionar esse problema, foi introduzido a palavra reservada _let,_ responsável por delimitar a variável apenas ao escopo de bloco. Por conta disso, hoje é encorajado o uso de _let_ ao invés de _var._
 
-Linguagem: [[Javascript]]
+
+
+
