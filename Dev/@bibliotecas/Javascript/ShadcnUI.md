@@ -117,7 +117,9 @@ export default defineConfig({
 })
 ```
 
-Não se esqueça de **importar o css global no app!**
+> [!NOTE]
+>  Não se esqueça de **importar o css global no app!**
+
 # Inicializando 
 
 Abaixo podemos inicializar o CLI do shadcn/ui:
