@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "b7ac4c508d9305aa",
+            "id": "bde749a032dd0690",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Front-end/Javascript/JS Assíncrono.md",
+                "file": "Dev/Front-end/Javascript/Local Storage.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Front-end/Javascript/JS Assíncrono.md",
+                "file": "Dev/Front-end/Javascript/Local Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Front-end/Javascript/JS Assíncrono.md",
+                "file": "Dev/Front-end/Javascript/Local Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Front-end/Javascript/JS Assíncrono.md"
+                "file": "Dev/Front-end/Javascript/Local Storage.md"
               }
             }
           }
@@ -157,12 +157,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7ac4c508d9305aa",
+  "active": "bde749a032dd0690",
   "lastOpenFiles": [
-    "Dev/Front-end/Javascript/Javascript.md",
+    "Dev/Front-end/Javascript/JS Moderno - ES6.md",
+    "Dev/Front-end/Javascript/JS e POO.md",
+    "Dev/Front-end/Javascript/JS Assíncrono.md",
     "Dev/Front-end/Javascript/Funções.md",
+    "Dev/Front-end/Javascript/Javascript.md",
+    "Dev/Teórico/Arquitetura de Software/API.md",
+    "Pasted image 20240722180947.png",
+    "Pasted image 20240722170849.png",
+    "Pasted image 20240722170758.png",
+    "2024-07-22.md",
+    "Untitled.canvas",
+    "Dev/Back-end/Javascript/NEST.js.md",
+    "Dev/Front-end/Typescript/Typescript.md",
     "Dev/Front-end/Javascript/DOM.md",
-    "Pasted image 20240721224735.png",
+    "Images/Pasted image 20240721224735.png",
     "Dev/@bibliotecas/Javascript/Bibliotecas.md",
     "Dev/@bibliotecas/Javascript/ORM e Query Builders/KNEX.md",
     "Dev/Front-end/Javascript/Declarações, Escopos e Funções.md",
@@ -173,33 +184,22 @@
     "Dev/@bibliotecas/Javascript/ESLINT.md",
     "Dev/@bibliotecas/Javascript/MSW.md",
     "Dev/@bibliotecas/Javascript/React Query.md",
-    "Dev/Back-end/Javascript/NEST.js.md",
     "Dev/@bibliotecas/Javascript/ORM e Query Builders/Prisma.md",
     "Dev/@bibliotecas/Javascript/ShadcnUI.md",
     "Dev/Front-end/React/React Router.md",
     "Dev/Mobile/React Native/Exportação.md",
     "Dev/Mobile/React Native/Buttons e Touchables.md",
-    "Dev/Front-end/Javascript/JS Assíncrono.md",
     "Images/Pasted image 20240708211922.png",
     "Images/Pasted image 20240708211803.png",
     "Images/Pasted image 20240708211420.png",
     "Images/Pasted image 20240708210850.png",
     "Images/Pasted image 20240708210529.png",
     "Images/Pasted image 20240708210206.png",
-    "Images/Pasted image 20240708205550.png",
-    "Images/Pasted image 20240708205457.png",
-    "Images/Pasted image 20240708205316.png",
     "Dev/Mobile/React Native/React Native.md",
     "Dev/SQL/Supabase.md",
     "Dev/SQL/SQL.md",
-    "Dev/SQL/SQL - Comandos DML.md",
-    "Dev/SQL/Firebase.md",
     "Dev/SQL",
-    "Dev/@bibliotecas/Javascript/ZOD.md",
-    "Dev/@bibliotecas/Javascript/STITCHES.md",
-    "Dev/@bibliotecas/Javascript/JSON Server.md",
     "Images",
-    "Untitled.canvas",
     "Dev/Back-end/JAVA",
     "Dev/Back-end/Javascript",
     "Dev/@bibliotecas/Javascript/ORM e Query Builders",

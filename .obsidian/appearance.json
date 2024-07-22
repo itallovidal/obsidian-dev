@@ -1,1 +1,9 @@
-{}
+{
+  "textFontFamily": "Roboto Serif 20pt",
+  "baseFontSize": 18,
+  "baseFontSizeAction": true,
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "style"
+  ]
+}
