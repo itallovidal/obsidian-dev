@@ -7,7 +7,7 @@ npm i eslint @rocketseat/eslint-config -D
 ```tsx
 {
   "extends": "@rocketseat/eslint-config/node",
-"rules": {
+	"rules": {
     "no-useless-constructor": "off"
   }
 }
