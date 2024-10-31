@@ -4,33 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "84a3452777e8f9d8",
+        "id": "bd5d6bb7f21c3bc3",
         "type": "tabs",
         "children": [
           {
-            "id": "66fa5deec24c6c88",
+            "id": "f9b6c2c337dca3fb",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "449f87e79e7ef52c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Front-end/Next/Next.md",
-                "mode": "source",
-                "source": false
-              }
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -50,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -65,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -73,15 +64,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 361.5
   },
   "right": {
     "id": "a98ce14fb3a8b792",
@@ -97,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Front-end/Next/Next.md",
+                "file": "Dev/Teórico/Estrutura de Dados/Estrutura de Dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Estrutura de Dados"
             }
           },
           {
@@ -114,10 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Front-end/Next/Next.md",
+                "file": "Dev/Teórico/Estrutura de Dados/Estrutura de Dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Estrutura de Dados"
             }
           },
           {
@@ -128,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -137,8 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Front-end/Next/Next.md"
-              }
+                "file": "Dev/Teórico/Estrutura de Dados/Estrutura de Dados.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Estrutura de Dados"
             }
           }
         ]
@@ -158,47 +158,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "449f87e79e7ef52c",
+  "active": "f9b6c2c337dca3fb",
   "lastOpenFiles": [
+    "Dev/Teórico/Estrutura de Dados/Estrutura de Dados.md",
+    "Pasted image 20241030205641.png",
+    "Pasted image 20241030205626.png",
+    "Pasted image 20241030205559.png",
+    "Dev/Front-end/Typescript/Typescript.md",
+    "Pasted image 20241030190756.png",
+    "Dev/Front-end/Next/Next.md",
+    "Dev/Back-end/JWT.md",
+    "Pasted image 20240722170758.png",
+    "2024-09-23.md",
+    "Dev/Front-end/Next/SSR e SSG.md",
+    "Dev/Mobile/React Native/Exportação.md",
+    "Dev/@bibliotecas/Javascript/React Query.md",
+    "Dev/@bibliotecas/Javascript/ShadcnUI.md",
+    "Dev/@bibliotecas/Javascript/ESLINT.md",
+    "Dev/Front-end/Javascript/JS Moderno - ES6.md",
+    "Untitled.canvas",
+    "Dev/Back-end/JAVA/SpringBoot.md",
+    "Dev/Mobile/React Native/React Navigation.md",
+    "Dev/Mobile/React Native/Async Storage.md",
+    "Dev/@bibliotecas/Javascript/ZOD.md",
+    "Dev/Mobile/React Native/@Bibliotecas/Reanimated.md",
+    "Dev/Mobile/React Native/React Native.md",
+    "Dev/Front-end/React/React Router.md",
+    "Dev/Front-end/Next/App router.md",
+    "Dev/@bibliotecas/Javascript/STITCHES.md",
+    "Dev/Front-end/Next/Next API.md",
+    "Dev/Front-end/Next/File System Routing.md",
+    "Dev/@bibliotecas/Javascript/MSW.md",
     "Pasted image 20240731222024.png",
     "Pasted image 20240731222001.png",
     "Pasted image 20240731214225.png",
     "Dev/Front-end/React/React.md",
-    "Dev/@bibliotecas/Javascript/ESLINT.md",
-    "Dev/@bibliotecas/Javascript/STITCHES.md",
-    "Dev/@bibliotecas/Javascript/ShadcnUI.md",
     "Dev/Front-end/Javascript/JS Assíncrono.md",
-    "Dev/Front-end/Next/Next.md",
-    "Dev/Front-end/Next/File System Routing.md",
-    "Dev/Front-end/Next/App router.md",
-    "Dev/Mobile/React Native/Exportação.md",
-    "Dev/@bibliotecas/Javascript/React Hook Form.md",
-    "Dev/Front-end/React/Hooks.md",
-    "Dev/@bibliotecas/Javascript/ZOD.md",
-    "Dev/@bibliotecas/Javascript/React Query.md",
-    "Dev/Front-end/Next/Next API.md",
-    "Dev/Front-end/Next/SSR e SSG.md",
-    "Dev/Front-end/Next/Editando o Document e Imagens.md",
     "Pasted image 20240722210504.png",
-    "Dev/Front-end/Javascript/JS Moderno - ES6.md",
-    "Dev/Front-end/Javascript/JS e POO.md",
-    "Dev/Front-end/Javascript/Funções.md",
-    "Dev/Front-end/Javascript/Javascript.md",
-    "Dev/Teórico/Arquitetura de Software/API.md",
     "Pasted image 20240722180947.png",
-    "Pasted image 20240722170849.png",
-    "Pasted image 20240722170758.png",
-    "2024-07-22.md",
-    "Untitled.canvas",
-    "Dev/Back-end/Javascript/NEST.js.md",
-    "Dev/Front-end/Typescript/Typescript.md",
-    "Dev/Front-end/Javascript/DOM.md",
-    "Images/Pasted image 20240721224735.png",
     "Dev/@bibliotecas/Javascript",
     "Dev/Teórico",
-    "Images/Pasted image 20240708211922.png",
-    "Images/Pasted image 20240708211803.png",
-    "Images/Pasted image 20240708211420.png",
     "Dev/SQL",
     "Images",
     "Dev/Back-end/JAVA",

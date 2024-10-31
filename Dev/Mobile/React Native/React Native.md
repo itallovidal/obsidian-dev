@@ -1,6 +1,7 @@
 # Introdução ao React Native
 
 ### Configurando o Ambiente de Desenvolvimento
+removeClippedSubviews
 
 Para que possamos trabalhar e desenvolver aplicações com React Native primeiro devemos preparar nosso ambiente para que ele forneça todo o suporte necessário. Precisaremos de:
 

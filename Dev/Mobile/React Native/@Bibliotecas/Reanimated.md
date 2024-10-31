@@ -26,6 +26,8 @@ module.exports = function (api) {
 
 Para que possamos utilizar as propriedades desta biblioteca nos componentes, devemos “envolve-los” com um componente chamado **`*Animated*` .** Ele serve como `*wrapper*` e possui suporte nativo aos seguintes componentes:
 
+itemLayoutAnimation
+
 - `*FlatList*`
 - `*Image*`
 - `*View*`

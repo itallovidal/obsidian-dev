@@ -41,7 +41,6 @@ function App() {
         <BrowserRouter>
 						// nossa nav se manté imutável
             <Nav/>
-						
 						// espaco para nossas rotas
             <Routes>
                 <Route path='/' element={<Home/>}/>

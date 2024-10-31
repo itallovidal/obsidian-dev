@@ -14,11 +14,9 @@ Assim como o localStorage do navegador, o asyncStorage só guarda strings. Ou se
 
 ```jsx
 async function storeData(data: User[]) {
-		// transformando o vetor de usuários em uma string
+	// transformando o vetor de usuários em uma string
     const list = JSON.stringify(data)
-
-		// processo é assíncrono
-		//                          key        value
+	// processo é assíncrono
     await AsyncStorage.setItem('lastList', list)
 }
 ```
@@ -26,15 +24,11 @@ async function storeData(data: User[]) {
 ### Pegando Dados
 
 ```jsx
-//                              tipo da promesa retornada
+
 async function getStoredList(): Promise<CartItem[] | false> {
-
-		// capturando o dado armazenado na chave
     const response = await AsyncStorage.getItem('lastList')
-
-		// se o retorno nao for nulo, existia uma lista
     if(response){
-				// lembrar de transformar de volta de string para objeto/vetor
+	// lembrar de transformar de volta de string para objeto/vetor
         return JSON.parse(response)
     }
     return false

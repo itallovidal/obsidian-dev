@@ -44,3 +44,6 @@ eas build -p android --profile preview
 ```
 
 Link: [[React Native]]
+
+npx run android 
+npx react-native  build-android --mode-release
